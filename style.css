@@ -1,0 +1,12 @@
+
+h3{
+    color:rgba(117, 62, 7, 0.763) ;
+    border-bottom:5px dotted black;
+    font-size:35px ;
+}
+p{
+    font-size: 30px ;
+    font-weight: bold ;
+    color:rgba(60, 37, 13, 0.763);
+
+}
